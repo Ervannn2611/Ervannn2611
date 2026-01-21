@@ -26,7 +26,7 @@
 
 ## 📫 Contact Me
 - Email: [muhammadevan2611@gmail.com](mailto:muhammadevan2611@gmail.com)
-- Portfolio: [https://muhamadervan-portofolio.vercel.app]
+- Portfolio: https://muhamadervan-portofolio.vercel.app
 - LinkedIn: [Muhamad Ervan](https://www.linkedin.com/in/muhamad-ervan)
 
 ---
